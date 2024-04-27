@@ -62,3 +62,63 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Social Media Follower Store (Laravel)
+
+Bu repo, Laravel ile geliştirilmiş bir sosyal medya takipçi satış e-ticaret sitesi projesini içerir. Bu proje, kullanıcıların çeşitli sosyal medya platformları için takipçi satın alabilecekleri bir platform sağlar.
+
+## Özellikler
+
+- Kullanıcı kaydı ve oturum açma
+- Farklı sosyal medya platformları için takipçi paketleri
+- Ödeme işlemleri entegrasyonu
+- Sipariş takibi ve geçmişi
+- Yönetim paneli
+- Birçok özellik daha mevcut
+
+## Kullanılan Teknolojiler
+
+Bu proje, aşağıdaki teknolojileri kullanmaktadır:
+
+- Laravel: PHP tabanlı bir web uygulama çatısı
+- MySQL: Veritabanı yönetim sistemi
+- React: Önyüzdeki çalışmalar için
+- Vite: React ile birlikte kullanıldı
+- Tailwind: React ile birlikte kullanıldı
+
+## Kurulum
+
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+1. Öncelikle, projeyi bilgisayarınıza klonlayın: `git clone https://github.com/erenoren10/SocialMediaFollowerStore_Laravel.git`
+2. Proje dizinine gidin ve bağımlılıkları yüklemek için Composer kullanarak aşağıdaki komutu çalıştırın: `composer install`
+3. `.env.example` dosyasını `.env` olarak kopyalayın ve gerekli ayarları yapılandırın: `cp .env.example .env`
+4. Veritabanı ayarlarını `.env` dosyasında belirtin ve migrasyonları çalıştırın: `php artisan migrate`
+5. Uygulamayı başlatmak için aşağıdaki komutu çalıştırın: `php artisan serve`
+6. Tarayıcınızda `http://localhost:8000` adresine giderek projeyi görüntüleyebilirsiniz.
+
+## Katkıda Bulunma
+
+Eğer projeye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları izleyin:
+
+1. Bu repo'yu kendi hesabınıza fork edin.
+
+2. Yeni özellikler veya düzeltmeler ekleyin.
+
+3. Değişiklikleriniz için bir pull request oluşturun.
+
+4. İncelemem için pull request'i gönderin.
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+
+
+
+
+
+
+
+
+
+
