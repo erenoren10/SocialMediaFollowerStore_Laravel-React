@@ -90,7 +90,7 @@ Bu proje, aşağıdaki teknolojileri kullanmaktadır:
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-1. Öncelikle, projeyi bilgisayarınıza klonlayın: `git clone https://github.com/erenoren10/SocialMediaFollowerStore_Laravel.git`
+1. Öncelikle, projeyi bilgisayarınıza klonlayın: `git clone https://github.com/erenoren10/SocialMediaFollowerStore_Laravel-React.git`
 2. Proje dizinine gidin ve bağımlılıkları yüklemek için Composer kullanarak aşağıdaki komutu çalıştırın: `composer install`
 3. `.env.example` dosyasını `.env` olarak kopyalayın ve gerekli ayarları yapılandırın: `cp .env.example .env`
 4. Veritabanı ayarlarını `.env` dosyasında belirtin ve migrasyonları çalıştırın: `php artisan migrate`
