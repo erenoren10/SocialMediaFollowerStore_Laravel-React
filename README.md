@@ -63,7 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# Social Media Follower Store (Laravel)
+# Social Media Follower Store (Laravel,React)
 
 Bu repo, Laravel ile geliştirilmiş bir sosyal medya takipçi satış e-ticaret sitesi projesini içerir. Bu proje, kullanıcıların çeşitli sosyal medya platformları için takipçi satın alabilecekleri bir platform sağlar.
 
